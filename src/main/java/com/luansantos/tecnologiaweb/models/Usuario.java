@@ -19,7 +19,6 @@ public class Usuario {
     private LocalDate dataNascimento;
     private String password;
 
-    // Getters e Setters
     public Long getId() {
         return id;
     }

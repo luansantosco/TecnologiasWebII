@@ -7,7 +7,7 @@
 
 ## Projeto: API REST de Gerenciamento de Usuários
 
-Este projeto é parte do curso de Tecnologias Web II da Unieso e tem como objetivo a criação de uma API REST utilizando o framework Spring Boot. O recurso central desta API é o **Usuário**, com operações CRUD (Create, Read, Update, Delete) implementadas para gerenciar os dados de usuários.
+Este projeto é parte do curso de Tecnologias Web II da Uniesp e tem como objetivo a criação de uma API REST utilizando o framework Spring Boot. O recurso central desta API é o **Usuário**, com operações CRUD (Create, Read, Update, Delete) implementadas para gerenciar os dados de usuários.
 
 ### Objetivos do Projeto
 
@@ -48,6 +48,7 @@ Para concluir o projeto, implemente os seguintes métodos:
 
 - **Spring Boot**: Framework principal para a construção da API REST.
 - **Java**: Linguagem de programação para o desenvolvimento da aplicação.
+- **MySql**: Banco de Dados.
 - **Maven**: Gerenciador de dependências.
 
 ### Instruções para Rodar o Projeto
