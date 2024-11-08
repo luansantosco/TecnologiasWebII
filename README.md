@@ -48,7 +48,7 @@ Para concluir o projeto, implemente os seguintes métodos:
 
 - **Spring Boot**: Framework principal para a construção da API REST.
 - **Java**: Linguagem de programação para o desenvolvimento da aplicação.
-- **MySql**: Banco de Dados.
+- **MySql**: Sistema de gerenciamento de banco de dados.
 - **Maven**: Gerenciador de dependências.
 
 ### Instruções para Rodar o Projeto
